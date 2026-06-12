@@ -7,20 +7,6 @@ An end-to-end business-intelligence project that models multidimensional renewab
 
 ---
 
-## Dashboard preview
-
-<!-- Replace these with your own screenshots / GIF. Put image files in an /images folder and update the paths. -->
-
-![Dashboard overview](images/dashboard-overview.png)
-
-*Interactive dashboard: energy production by country and source (left) and production trends by year and source (right), with shared filters and hover-driven cross-highlighting.*
-
-<!-- A short animated GIF showing filtering/hovering is highly recommended here — it proves interactivity without needing Tableau:
-![Dashboard interaction](images/dashboard-demo.gif)
--->
-
----
-
 ## Overview
 
 The dataset tracks renewable-energy adoption across multiple countries from 2010–2023, with metrics on energy production, investment, installed capacity, environmental impact, and job creation across five sources: solar, wind, hydro, geothermal, and biomass.
