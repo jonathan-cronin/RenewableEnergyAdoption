@@ -2,8 +2,8 @@
 
 An end-to-end business-intelligence project that models multidimensional renewable-energy data and presents it through an interactive Tableau dashboard. The work covers the full BI lifecycle: dimensional modelling (star schema), purpose-built data marts, and a coordinated, interactive dashboard designed for a policy-maker audience.
 
-> **Live dashboard:** [View on Tableau Public](ADD_YOUR_TABLEAU_PUBLIC_LINK_HERE)
-> *(Best viewed in a desktop browser — the dashboard is fully interactive, with filters and cross-highlighting.)*
+> **Live dashboard:**
+> [Renewable Energy Adoption Dashboard](https://jonathan-cronin.github.io/RenewableEnergyAdoption/)
 
 ---
 
